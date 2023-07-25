@@ -1,0 +1,39 @@
+.product-details
+{
+    height:100%;
+    border: 1px solid #95A0A7;
+    border-radius: 10px;
+    margin: 15px;
+    position: relative;
+}
+
+div.product-details img
+{
+    width: 100%;
+    border-radius: 15px;
+}
+
+.price
+{
+    font-size: 15px;
+}
+
+.product-info{
+    padding: 5px;
+}
+
+.add-to-cart-btn
+{
+    width: 100%;
+    background-color: #FFE0B3;
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
+}
+
+.manufac-ratings
+{
+    line-height: 5px;
+    font-size: 13px;
+    margin: 30px 0 20px;
+}
