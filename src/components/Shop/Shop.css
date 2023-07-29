@@ -4,11 +4,6 @@
     grid-template-columns: 4fr 1fr;
 }
 
-.shop-summary-details
-{
-    background-color: rgba(255, 153, 0, 0.30);
-}
-
 .product-container
 {
     margin: 40px;
@@ -16,7 +11,3 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
-div.shop-summary-details h4
-{
-    text-align: center;
-}

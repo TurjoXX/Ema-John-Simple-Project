@@ -1,10 +1,8 @@
 .product-details
 {
-    height:100%;
     border: 1px solid #95A0A7;
-    border-radius: 10px;
+    border-radius: 6px;
     margin: 15px;
-    position: relative;
 }
 
 div.product-details img
@@ -15,25 +13,34 @@ div.product-details img
 
 .price
 {
-    font-size: 15px;
+    font-size: 13px;
+    margin: 2px 0;
 }
 
 .product-info{
-    padding: 5px;
+    padding: 6px;
 }
 
 .add-to-cart-btn
 {
     width: 100%;
     background-color: #FFE0B3;
-    border-radius: 8px;
-    position: absolute;
-    bottom: 0;
+    border-radius: 6px;
+}
+
+.add-to-cart-btn:hover
+{
+    background-color: orange;
 }
 
 .manufac-ratings
 {
     line-height: 5px;
-    font-size: 13px;
+    font-size: 11px;
     margin: 30px 0 20px;
+}
+
+div.product-info h6
+{
+    margin: 2px 0;
 }

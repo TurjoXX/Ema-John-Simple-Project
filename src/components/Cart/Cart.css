@@ -1,0 +1,42 @@
+.shop-summary-details
+{
+    padding: 12px;
+    height: 100%;
+    background-color: rgba(255, 153, 0, 0.30);
+}
+
+.shop-summary-info
+{
+    position: sticky;
+    top: 5px;
+}
+
+div.shop-summary-info h5
+{
+    font-size: 20px;
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+.shop-summary-info p
+{
+    font-size: 14px;
+}
+
+.clear-cart
+{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    color: white;
+    border-radius: 4px;
+    background: #FF3030;   
+}
+
+.review-order
+{
+    width: 100%;
+    color: white;
+    border-radius: 4px;
+    background: #F90;
+}
